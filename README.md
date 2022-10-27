@@ -1,0 +1,2 @@
+# metabase-url-generator-bot
+ 
